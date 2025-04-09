@@ -25,9 +25,6 @@ const config = {
             fallback: 'index.html',
             precompress: true
         }),
-        paths: {
-            base: '/console'
-        }
     },
     vitePlugin: {
         inspector: {
